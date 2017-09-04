@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node ""E:\Program files (x86)\HardwareLink\public\server.js""", 0
